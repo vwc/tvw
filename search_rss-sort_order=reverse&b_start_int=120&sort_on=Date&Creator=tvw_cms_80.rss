@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 121 to 135.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4385.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4360.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4363.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4412.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4409.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/CIMG4384.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/kinderturnen-5-6-jahre/kinderturnen-5-6-jahre"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/CIMG4323.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/sport-fur-jungs"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/jungs-in-actions-foto"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/nagihan-und-doris"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.8437467581"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.3887539078"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/hallenplan-10-2013-2"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan-10.2013"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4385.JPG">        <title>KiFE006</title>        <link>http://tvwillmatshofen.de/CIMG4385.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:10:33Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4360.JPG">        <title>KiFe 005</title>        <link>http://tvwillmatshofen.de/CIMG4360.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:09:03Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4363.JPG">        <title>KiFe004</title>        <link>http://tvwillmatshofen.de/CIMG4363.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:06:35Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4412.JPG">        <title>KiFe003</title>        <link>http://tvwillmatshofen.de/CIMG4412.JPG</link>        <description> </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:04:41Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4409.JPG">        <title>KiFe002</title>        <link>http://tvwillmatshofen.de/CIMG4409.JPG</link>        <description> </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:03:02Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/CIMG4384.JPG">        <title>KiFe001</title>        <link>http://tvwillmatshofen.de/CIMG4384.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-17T15:00:18Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/kinderturnen-5-6-jahre/kinderturnen-5-6-jahre">        <title>Kinderturnen 5 - 6 Jahre</title>        <link>http://tvwillmatshofen.de/sport/turnen/kinderturnen-5-6-jahre/kinderturnen-5-6-jahre</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:58:45Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/CIMG4323.JPG">        <title>Kinderturnen 5-6</title>        <link>http://tvwillmatshofen.de/sport/CIMG4323.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:52:36Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/sport-fur-jungs">        <title>Jungs in Action </title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/sport-fur-jungs</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:35:19Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/jungs-in-actions-foto">        <title>Jungs in Actions Foto</title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/jungs-in-actions-foto</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:33:45Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/nagihan-und-doris">        <title>Nagihan und Doris</title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/nagihan-und-doris</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:27:16Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.8437467581">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.8437467581</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:24:04Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.3887539078">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/image.2013-10-03.3887539078</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T20:16:29Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/hallenplan-10-2013-2">        <title>Hallenplan 10.2013-2</title>        <link>http://tvwillmatshofen.de/hallenplan/hallenplan-10-2013-2</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T19:11:54Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan-10.2013">        <title>Hallenplan 10.2013</title>        <link>http://tvwillmatshofen.de/hallenplan-10.2013</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-09-26T19:14:28Z</dc:date>        <dc:type>File</dc:type>    </item>
+
+
+
+</rdf:RDF>

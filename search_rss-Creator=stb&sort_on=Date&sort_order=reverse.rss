@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 6.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/Hallenplan"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/veranstaltungskalender"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/image.2012-09-25.1391137511"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/aerobic/richdocument.2012-09-25.6313848312"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/aerobic/image.2012-09-25.5707224174"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan">        <title>Hallenplan</title>        <link>http://tvwillmatshofen.de/hallenplan</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-01-31T08:59:09Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/Hallenplan">        <title>tester</title>        <link>http://tvwillmatshofen.de/Hallenplan</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-01-30T19:00:46Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/veranstaltungskalender">        <title>Veranstaltungskalender</title>        <link>http://tvwillmatshofen.de/aktuelles/veranstaltungskalender</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-11-07T16:47:53Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/image.2012-09-25.1391137511">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/image.2012-09-25.1391137511</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-09-25T15:32:19Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/aerobic/richdocument.2012-09-25.6313848312">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/aerobic/richdocument.2012-09-25.6313848312</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-09-25T15:23:51Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/aerobic/image.2012-09-25.5707224174">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/aerobic/image.2012-09-25.5707224174</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>stb</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-09-25T15:22:51Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 91 to 105.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/downloads"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/streckenprofil/streckenprofil"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/streckenprofil"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/streckenprofil"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/downloads"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/downloads/downloads"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/plakat/plakat-2011-1"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/plakat/2001-pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/plakat/plakat-2011"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/programm/programm"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/plakat"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/programm"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/dorffest"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/dorffest/dorffest-in-willmatshofen"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/dorffest/dorffest-in-willmatshofen"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/downloads">        <title>Downloads</title>        <link>http://tvwillmatshofen.de/silvesterlauf/downloads</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/streckenprofil/streckenprofil">        <title>Streckenprofil</title>        <link>http://tvwillmatshofen.de/silvesterlauf/streckenprofil/streckenprofil</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T11:33:56Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/streckenprofil">        <title>Streckenprofil</title>        <link>http://tvwillmatshofen.de/silvesterlauf/streckenprofil</link>        <description>Beschreibung der Laufstrecke</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/streckenprofil">        <title>Streckenprofil</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/streckenprofil</link>        <description>Beschreibung der Laufstrecke</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/downloads">        <title>Downloads</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/downloads</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/downloads/downloads">        <title>Downloads</title>        <link>http://tvwillmatshofen.de/silvesterlauf/downloads/downloads</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-03-18T22:08:23Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/plakat/plakat-2011-1">        <title>Plakat 2011</title>        <link>http://tvwillmatshofen.de/dorffest/plakat/plakat-2011-1</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T14:47:51Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/plakat/2001-pdf">        <title>2001 pdf</title>        <link>http://tvwillmatshofen.de/dorffest/plakat/2001-pdf</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T14:32:13Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/plakat/plakat-2011">        <title>plakat 2011</title>        <link>http://tvwillmatshofen.de/dorffest/plakat/plakat-2011</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T14:31:08Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/programm/programm">        <title>Programm</title>        <link>http://tvwillmatshofen.de/dorffest/programm/programm</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T14:23:36Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/plakat">        <title>Plakat</title>        <link>http://tvwillmatshofen.de/dorffest/plakat</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T12:10:13Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/programm">        <title>Programm</title>        <link>http://tvwillmatshofen.de/dorffest/programm</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T12:09:40Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/dorffest">        <title>Dorffest</title>        <link>http://tvwillmatshofen.de/dorffest/dorffest</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T12:09:04Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/dorffest/dorffest-in-willmatshofen">        <title>Dorffest in Willmatshofen</title>        <link>http://tvwillmatshofen.de/dorffest/dorffest/dorffest-in-willmatshofen</link>        <description>Es ist wieder soweit: Dorffest in Willmatshofen am 9. und 10. Juli!
+Zwei Tage lang Spaß: bei Spiel, Spannung und Schmankerln </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T12:00:52Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/dorffest/dorffest-in-willmatshofen">        <title>Dorffest in Willmatshofen</title>        <link>http://tvwillmatshofen.de/dorffest/dorffest-in-willmatshofen</link>        <description>Es ist wieder soweit: Dorffest in Willmatshofen am 9. und 10. Juli!
+Zwei Tage lang Spaß: bei Spiel, Spannung und Schmankerln </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T12:00:52Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+
+
+
+</rdf:RDF>

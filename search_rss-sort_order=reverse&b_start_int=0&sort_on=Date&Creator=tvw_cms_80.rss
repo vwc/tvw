@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/unser-sportangebot-juni-2014"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/unser-sportangebot-juni-2014"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/hallenplan-mai-2014"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/file.2014-05-14.6795691879"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan-mai-2014"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-2"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-1"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/richdocument.2014-04-29.6988122302"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-2"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/richdocument.2014-04-29.5027242870"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-1"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/spartenbeitrage"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/richdocument.2014-04-29.1272897644"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/richdocument.2014-04-29.9721479102"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/unser-sportangebot-juni-2014">        <title>Unser Sportangebot Juni 2014</title>        <link>http://tvwillmatshofen.de/hallenplan/unser-sportangebot-juni-2014</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-06-02T08:15:52Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/unser-sportangebot-juni-2014">        <title>Unser Sportangebot Juni 2014</title>        <link>http://tvwillmatshofen.de/unser-sportangebot-juni-2014</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-06-02T08:14:12Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/hallenplan-mai-2014">        <title>Hallenplan Mai 2014</title>        <link>http://tvwillmatshofen.de/hallenplan/hallenplan-mai-2014</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-05-14T17:39:06Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/file.2014-05-14.6795691879">        <title>[···]</title>        <link>http://tvwillmatshofen.de/hallenplan/file.2014-05-14.6795691879</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-05-14T16:57:59Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan-mai-2014">        <title>Hallenplan Mai 2014</title>        <link>http://tvwillmatshofen.de/hallenplan-mai-2014</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-05-14T16:57:46Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-2">        <title>Nachlese zu unserer Jahreshauptversammlung </title>        <link>http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-2</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:43:55Z</dc:date>        <dc:type>Event</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-1">        <title>Nachlese zu unserer Jahreshauptversammlung vom 30.03.2014</title>        <link>http://tvwillmatshofen.de/nachlese-zu-unserer-jahreshauptversammlung-vom-30-03.2014-1</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:40:33Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/richdocument.2014-04-29.6988122302">        <title>[···]</title>        <link>http://tvwillmatshofen.de/richdocument.2014-04-29.6988122302</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:28:18Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-2">        <title>aktuelle Infos zu unseren Spartenbeiträgen</title>        <link>http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-2</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:26:39Z</dc:date>        <dc:type>Link</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/richdocument.2014-04-29.5027242870">        <title>[···]</title>        <link>http://tvwillmatshofen.de/richdocument.2014-04-29.5027242870</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:25:02Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-1">        <title>aktuelle Infos zu unseren Spartenbeiträgen</title>        <link>http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen-1</link>        <description>Hallo lieber Besucher, hier finden Sie Infos zu unseren Spartenbeiträgen.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:46:57Z</dc:date>        <dc:type>Event</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/spartenbeitrage">        <title>Spartenbeiträge</title>        <link>http://tvwillmatshofen.de/spartenbeitrage</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:03:30Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/richdocument.2014-04-29.1272897644">        <title>[···]</title>        <link>http://tvwillmatshofen.de/richdocument.2014-04-29.1272897644</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T19:02:07Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/richdocument.2014-04-29.9721479102">        <title>[···]</title>        <link>http://tvwillmatshofen.de/richdocument.2014-04-29.9721479102</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T18:59:32Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen">        <title>aktuelle Infos zu unseren Spartenbeiträgen</title>        <link>http://tvwillmatshofen.de/aktuelle-infos-zu-unseren-spartenbeitragen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-29T18:56:04Z</dc:date>        <dc:type>Link</dc:type>    </item>
+
+
+
+</rdf:RDF>

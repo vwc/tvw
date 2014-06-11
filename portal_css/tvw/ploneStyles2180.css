@@ -1,0 +1,322 @@
+
+/* - tvw.css - */
+@media screen {
+/* http://tvwillmatshofen.de/portal_css/tvw.css?original=1 */
+/* */
+body {
+background: url("../../bg.gif") repeat-x 0px 0px white;
+}
+#css-notice {
+display: none;
+}
+.hiddenStructure {
+height: 0px;
+}
+.visualClear {
+clear: both;
+line-height: 0px;
+}
+hr {
+background: #89181b;
+}
+/* **********************************************/
+#lbCaption {
+display: none;
+}
+.listingBar {
+margin: 20px 0px 0px 0px !important;
+text-transform: none;
+font-size: 100%;
+font-weight: bold;
+height: 16px;
+padding: 10px;
+border: 0px solid black;
+color: white;
+background: #89181b;
+}
+.listingBar a:link {
+background: transparent;
+color: #ff6600;
+border: 0px;
+}
+.listingBar a:visited {
+background: transparent;
+color: #ff6600;
+border: 0px;
+}
+.listingBar a:hover {
+background: transparent;
+color: #ff6600;
+border: 0px;
+}
+/* ****************************/
+#visual-portal-wrapper {
+margin: 0px;
+border: 0px solid black;
+background: url("../../bg.gif") repeat-x 0px 0px white;
+}
+#visual-site-wrapper {
+width: 990px;
+padding: 0px;
+margin: 0px auto 0px auto;
+border: 0px solid white;
+}
+#portal-top {
+margin: 0px;
+padding: 0px;
+}
+#portal-logo {
+margin: 0px;
+padding: 0px;
+border: 5px solid white;
+width: 990px;
+height: 154px;
+}
+#portal-breadcrumbs {
+display: none;
+}
+/* *************************************/
+#visual-column-wrapper {
+float: left;
+width: 100%;
+margin-right: -250px;
+background: url("../../bg_vcw.gif") repeat-y 0px 0px transparent;
+}
+#portal-columns {
+width: auto;
+border: 5px solid white;
+background: url("../../bg_vcw.gif") repeat-y 0px 0px transparent;
+margin: 0px;
+padding: 0px;
+}
+#portal-column-one {
+float: left;
+width: 200px;
+overflow: hidden;
+background: #edeeef;
+padding: 0px;
+margin: 0px;
+}
+#portal-column-two, #portal-column-content {
+background: transparent;
+}
+#portal-column-two {
+float: right;
+width: 250px;
+overflow: hidden;
+}
+#portal-column-content {
+width: 100%;
+float: right;
+margin-left: -200px;
+}
+#portal-column-content #content {
+margin: 0 250px 0 200px;
+}
+body.section-bookingcenter #portal-column-content #content {
+margin: 0 0 0 200px !important;
+}
+#portal-column-content .visualPadding {
+padding: 0px;
+}
+#portal-column-one .visualPadding {
+padding: 0px !important;
+}
+#portal-column-two .visualPadding {
+padding: 0px !important;
+}
+/* *********/
+#content {
+padding: 0px !important;
+margin: 0px;
+}
+#content a:link {
+background: transparent;
+color: #ff6600;
+border: 0px;
+font-weight: bold;
+}
+#content a:visited {
+background: transparent;
+color: #ff6600;
+border: 0px;
+font-weight: bold;
+}
+#content a:hover {
+background: transparent;
+color: #ff6600;
+border: 0px;
+font-weight: bold;
+}
+.documentContent {
+border: 0px solid black;
+margin: 0px;
+padding: 0px 5px 5px 5px !important;
+background: white;
+}
+#region-content {
+border: 0px solid black;
+background: white;
+margin: 0px;
+padding: 0px;
+}
+#region-content .documentContent div {
+margin: 0px;
+padding: 0px;
+border: 1px solid black;
+}
+.documentEditable {
+padding: 0px;
+margin: 0;
+}
+.documentEditable .documentContent {
+margin: 0;
+padding: 0;
+}
+.documentFirstHeading {
+clear: both;
+margin: 0px !important;
+text-transform: uppercase;
+font-size: 110%;
+font-weight: bold;
+height: 16px;
+padding: 10px 0px 8px 45px;
+border: 0px solid black;
+color: white;
+background: url("../../bullet_rwm.gif") no-repeat 5px 8px #89181b;
+}
+div.plain .documentByLine {
+display: none;
+}
+.documentByLine {
+display: none;
+}
+.documentActions {
+display: none;
+}
+.plain p {
+border: 0px solid red;
+padding:0px;
+margin: 20px 10px 20px 20px;
+}
+.bookingNotice {
+color: black;
+font-weight: bold;
+}
+/* *********************************/
+.globalSectionWrapper {
+background: #89181b;
+height:32px;
+width: 990px;
+margin: 5px 0px 0px 0px
+}
+.globalSectionWrapper {
+background: #89181b;
+height:32px;
+width: 990px;
+margin: 5px 0px 0px 0px
+}
+*html .globalSectionWrapper {
+background: #89181b;
+height:31px;
+width: 990px;
+margin: 5px 0px 0px 0px
+}
+#portal-globalnav {
+background: transparent;
+padding: 8px 0 0 0px !important;
+margin: 0px 0px 0px 0px;
+height: 20px;
+width: 990px;
+text-align: center;
+border: 0px solid red;
+}
+#portal-globalnav ul {
+list-style: none;
+list-style-image: none;
+background: transparent;
+}
+#portal-globalnav li {
+background: url("../../bullet_rw.gif") no-repeat 0px 3px transparent;
+}
+#portal-globalnav li a {
+background: transparent;
+border: 0px;
+color: white;
+margin: 0px 10px 0px 17px;
+padding: 0px;
+text-decoration: none;
+font-size: 120%;
+font-weight: bold;
+text-transform: uppercase;
+}
+#portal-globalnav li.selected a {
+background: transparent;
+color: #ff6600;
+border: 0px;
+}
+#portal-globalnav li a:hover {
+background: transparent;
+color: #ff6600;
+border: 0px;
+}
+#portal-globalnav #portaltab-abteilungen {
+background: transparent;
+}
+/* **************************************/
+#portal-footer {
+background: #89181b;
+color: white;
+border: 5px solid white;
+border-top-width: 0px;
+border-bottom-width: 5px;
+margin: 0 0 0 0;
+padding: 10px 0 0 0;
+height:28px;
+width: 990px;
+font-size: 100%;
+}
+.footerWrapper {
+width: 990px;
+}
+#footer {
+margin: 0;
+padding: 0;
+margin: 0px auto 0px auto;
+}
+#footer a:link {
+color: #ff6600;
+font-weight: bold;
+text-decoration: none;
+}
+#footer a:visited{
+color: #ff6600;
+font-weight: bold;
+text-decoration: none;
+}
+#footer a:hover {
+color: #ff6600;
+font-weight: bold;
+text-decoration: none;
+}
+#portal-colophon {
+display: none;
+}
+/* */
+/* */
+/* */
+
+}
+
+
+/* - ploneCustom.css - */
+@media all {
+/* http://tvwillmatshofen.de/portal_css/ploneCustom.css?original=1 */
+/* */
+/* */
+/* */
+/* */
+/* */
+
+}
+

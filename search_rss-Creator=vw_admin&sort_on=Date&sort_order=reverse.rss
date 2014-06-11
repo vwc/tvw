@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2008"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silvesterlauf-2008"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/preise/preise"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/preise"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/siegerliste/siegerliste"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/siegerliste"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/anmeldung"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/ausschreibung"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/anmeldung"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/preise/preise"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/preise"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/ausschreibung"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste/siegerliste"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2008">        <title>Silvesterlauf 2013</title>        <link>http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2008</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-31T15:17:14Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silvesterlauf-2008">        <title>Silvesterlauf 2013</title>        <link>http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silvesterlauf-2008</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-31T15:17:40Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf">        <title>Silvesterlauf</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:43:14Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/preise/preise">        <title>Preise</title>        <link>http://tvwillmatshofen.de/silvesterlauf/preise/preise</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T11:33:53Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/preise">        <title>Preise</title>        <link>http://tvwillmatshofen.de/silvesterlauf/preise</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/siegerliste/siegerliste">        <title>Siegerliste</title>        <link>http://tvwillmatshofen.de/silvesterlauf/siegerliste/siegerliste</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-31T15:29:17Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/siegerliste">        <title>Siegerliste</title>        <link>http://tvwillmatshofen.de/silvesterlauf/siegerliste</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/anmeldung">        <title>Anmeldung</title>        <link>http://tvwillmatshofen.de/silvesterlauf/anmeldung</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/ausschreibung">        <title>Ausschreibung</title>        <link>http://tvwillmatshofen.de/silvesterlauf/ausschreibung</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/anmeldung">        <title>Anmeldung</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/anmeldung</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/preise/preise">        <title>Preise</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/preise/preise</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T11:33:53Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/preise">        <title>Preise</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/preise</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/ausschreibung">        <title>Ausschreibung</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/ausschreibung</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste/siegerliste">        <title>Siegerliste</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste/siegerliste</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-06-18T11:33:53Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste">        <title>Siegerliste</title>        <link>http://tvwillmatshofen.de/sport/silvesterlauf/siegerliste</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vw_admin</dc:creator>        <dc:rights></dc:rights>                <dc:date>2011-11-12T11:42:52Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+
+
+
+</rdf:RDF>

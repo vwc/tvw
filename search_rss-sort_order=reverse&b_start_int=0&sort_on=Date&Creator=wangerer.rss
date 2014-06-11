@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/termine/thumb-spart"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/termine/thumb-einl"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/termine/spartenbeitrage"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/termine/einladung-jhv-2014"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/aktuelle-hallenbelegung-sportangebot"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/downloads/ausschreibung-2013"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/willkommen"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/willkommen"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/hallenplan/hallenplan-1"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/061"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/060"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/059"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/058"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/057"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/termine/thumb-spart">        <title>thumb spart</title>        <link>http://tvwillmatshofen.de/aktuelles/termine/thumb-spart</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-03-18T22:01:34Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/termine/thumb-einl">        <title>thumb einl</title>        <link>http://tvwillmatshofen.de/aktuelles/termine/thumb-einl</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-03-18T22:01:11Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/termine/spartenbeitrage">        <title>Spartenbeiträge</title>        <link>http://tvwillmatshofen.de/aktuelles/termine/spartenbeitrage</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-03-18T22:00:43Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/termine/einladung-jhv-2014">        <title>Einladung JHV 2014</title>        <link>http://tvwillmatshofen.de/aktuelles/termine/einladung-jhv-2014</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-03-18T22:00:10Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/aktuelle-hallenbelegung-sportangebot">        <title>Aktuelle Hallenbelegung / Sportangebot</title>        <link>http://tvwillmatshofen.de/hallenplan/aktuelle-hallenbelegung-sportangebot</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-06-02T08:16:47Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013">        <title>Silvesterlauf 2013</title>        <link>http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-01T10:44:51Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/downloads/ausschreibung-2013">        <title>Ausschreibung 2013</title>        <link>http://tvwillmatshofen.de/silvesterlauf/downloads/ausschreibung-2013</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-01T10:21:32Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/willkommen">        <title>Willkommen</title>        <link>http://tvwillmatshofen.de/willkommen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T19:41:39Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/willkommen">        <title>Willkommen</title>        <link>http://tvwillmatshofen.de/sport/turnen/sport-fur-jungs-1/willkommen</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T19:41:39Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/hallenplan/hallenplan-1">        <title>hallenplan</title>        <link>http://tvwillmatshofen.de/hallenplan/hallenplan-1</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-05-31T19:18:45Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/061">        <title>061</title>        <link>http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/061</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-03-02T14:20:51Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/060">        <title>060</title>        <link>http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/060</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-03-02T14:20:24Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/059">        <title>059</title>        <link>http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/059</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-03-02T14:20:01Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/058">        <title>058</title>        <link>http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/058</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-03-02T14:19:37Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/057">        <title>057</title>        <link>http://tvwillmatshofen.de/aktuelles/sportabend-2012/bilder-sportabend-2012/057</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>wangerer</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-03-02T14:19:12Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

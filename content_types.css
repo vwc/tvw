@@ -1,0 +1,255 @@
+/*
+generate css selectors to apply on content types links
+(we're using that to render reference fields)
+
+IMPORTANT:
+replace *spaces* in content type id with *underscores*
+*/
+a.CMF_Document {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Event {
+    background: transparent url("event_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Favorite {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_File {
+    background: transparent url("file_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Image {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Large_Plone_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Link {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_News_Item {
+    background: transparent url("newsitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.CMF_Topic {
+    background: transparent url("topic_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Discussion_Item {
+    background: transparent url("discussionitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Plone_Site {
+    background: transparent url("site_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.TempFolder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATPathCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATBooleanCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Image {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Topic {
+    background: transparent url("topic_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSelectionCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Large_Plone_Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Document {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSimpleStringCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATCurrentAuthorCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATDateCriteria {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Favorite {
+    background: transparent url("favorite_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Event {
+    background: transparent url("event_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATReferenceCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSimpleIntCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATListCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Folder {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Link {
+    background: transparent url("link_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.News_Item {
+    background: transparent url("newsitem_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.File {
+    background: transparent url("file_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATDateRangeCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATSortCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATRelativePathCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ATPortalTypeCriterion {
+    background: transparent url("document_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormFolder {
+    background: transparent url("Form.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormMailerAdapter {
+    background: transparent url("mailaction.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FieldsetFolder {
+    background: transparent url("Fieldset.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormSelectionField {
+    background: transparent url("ListField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormMultiSelectionField {
+    background: transparent url("MultipleListField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormRichLabelField {
+    background: transparent url("RichLabelField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormThanksPage {
+    background: transparent url("ThanksPage.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormLabelField {
+    background: transparent url("LabelField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormRichTextField {
+    background: transparent url("RichTextField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormSaveDataAdapter {
+    background: transparent url("FormAction.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormLinesField {
+    background: transparent url("LinesField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormBooleanField {
+    background: transparent url("CheckBoxField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormPasswordField {
+    background: transparent url("PasswordField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormTextField {
+    background: transparent url("TextAreaField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormDateField {
+    background: transparent url("DateTimeField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormFileField {
+    background: transparent url("FileField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormFixedPointField {
+    background: transparent url("FloatField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormCustomScriptAdapter {
+    background: transparent url("scriptaction.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormIntegerField {
+    background: transparent url("IntegerField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FormStringField {
+    background: transparent url("StringField.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.FileAttachment {
+    background: transparent url("file_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.RichDocument {
+    background: transparent url("RichDocument.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.ImageAttachment {
+    background: transparent url("image_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.BookingCenter {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.Booking {
+    background: transparent url("booking.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}
+a.BookableObject {
+    background: transparent url("folder_icon.gif") 0 1px no-repeat;
+    padding: 2px 0px 2px 18px;
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 541 to 555.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/aerobic/44.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/aerobic/43.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/uberblick"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/selbstschutzkurs-fur-unsere-kids"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/kursangebote/folder.2010-01-07.3053554174"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/silv_titel"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silv_titel"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/gesundheitssport/event.2009-10-09.9490551435"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/IMG_5964.JPG"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/galerie/archiv"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/jedermanntag"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/tuwi95.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/aktionen/richdocument.2009-06-06.8856319964"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/kontakt/daten/IMG_0750_editedklein.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/kontakt/daten/IMG_0750_edited.jpg"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/sport/aerobic/44.JPG">        <title>Aerobic 2</title>        <link>http://tvwillmatshofen.de/sport/aerobic/44.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2010-02-05T21:41:32Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/aerobic/43.JPG">        <title>Aerobic 1</title>        <link>http://tvwillmatshofen.de/sport/aerobic/43.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2010-02-05T21:40:01Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/uberblick">        <title>Überblick</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/uberblick</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2010-01-07T20:28:20Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/selbstschutzkurs-fur-unsere-kids">        <title>Selbstschutzkurs für unsere Kid´s</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/selbstschutzkurs-fur-unsere-kids</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2010-01-07T20:26:48Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/kursangebote/folder.2010-01-07.3053554174">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/kursangebote/folder.2010-01-07.3053554174</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2010-01-07T20:15:06Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/silv_titel">        <title>silv_titel</title>        <link>http://tvwillmatshofen.de/silvesterlauf/silv_titel</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-01T10:41:37Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silv_titel">        <title>silv_titel</title>        <link>http://tvwillmatshofen.de/silvesterlauf/silvesterlauf-2013/silv_titel</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-12-01T10:41:37Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/gesundheitssport/event.2009-10-09.9490551435">        <title>[···]</title>        <link>http://tvwillmatshofen.de/sport/gesundheitssport/event.2009-10-09.9490551435</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-10-09T08:12:30Z</dc:date>        <dc:type>Event</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/IMG_5964.JPG">        <title>Gruppenbild Kletterwald</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/IMG_5964.JPG</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-09-08T19:11:34Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/galerie/archiv">        <title>Archiv</title>        <link>http://tvwillmatshofen.de/galerie/archiv</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-06-06T18:53:22Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/jedermanntag">        <title>Übungsleiterausflug zum Kletterwald</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/jedermanntag</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-09-08T19:12:12Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/tuwi95.jpg">        <title>sportab95</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/tuwi95.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-06-06T18:25:36Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/aktionen/richdocument.2009-06-06.8856319964">        <title>[···]</title>        <link>http://tvwillmatshofen.de/aktuelles/aktionen/richdocument.2009-06-06.8856319964</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-06-06T17:38:06Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/kontakt/daten/IMG_0750_editedklein.jpg">        <title>Kathi klein</title>        <link>http://tvwillmatshofen.de/kontakt/daten/IMG_0750_editedklein.jpg</link>        <description> </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-05-24T08:44:05Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/kontakt/daten/IMG_0750_edited.jpg">        <title>Kathi</title>        <link>http://tvwillmatshofen.de/kontakt/daten/IMG_0750_edited.jpg</link>        <description> </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>tvw_cms_80</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-05-20T18:12:48Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

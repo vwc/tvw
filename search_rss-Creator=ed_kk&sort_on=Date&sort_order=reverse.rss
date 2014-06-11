@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tvwillmatshofen.de/search_rss">
+  <title>Turn Verein Willmatshofen</title>
+  <link>http://tvwillmatshofen.de</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 10.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tvwillmatshofen.de/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/kontakt/daten/daten"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/trampolin/trampolin"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/kursangebote/kursangebote"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/news/news"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/kontakt/links/links"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/impressum/impressum"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/kontakt/anfahrt/anfahrt"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/news"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/sport/trampolin"/>
+        
+        
+            <rdf:li rdf:resource="http://tvwillmatshofen.de/aktuelles/news/geburtstagsfeier.jpg"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tvwillmatshofen.de/kontakt/daten/daten">        <title>Daten</title>        <link>http://tvwillmatshofen.de/kontakt/daten/daten</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-11-06T20:15:40Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/trampolin/trampolin">        <title>Trampolin</title>        <link>http://tvwillmatshofen.de/sport/trampolin/trampolin</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T21:08:01Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/kursangebote/kursangebote">        <title>Kursangebote</title>        <link>http://tvwillmatshofen.de/sport/kursangebote/kursangebote</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2013-10-03T21:01:26Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/news/news">        <title>News</title>        <link>http://tvwillmatshofen.de/aktuelles/news/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-10-24T11:57:04Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/kontakt/links/links">        <title>Links</title>        <link>http://tvwillmatshofen.de/kontakt/links/links</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-05-20T18:14:19Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/impressum/impressum">        <title>Impressum</title>        <link>http://tvwillmatshofen.de/impressum/impressum</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-12-08T09:19:04Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/kontakt/anfahrt/anfahrt">        <title>Anfahrt</title>        <link>http://tvwillmatshofen.de/kontakt/anfahrt/anfahrt</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-11-21T17:08:48Z</dc:date>        <dc:type>Rich document</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/news">        <title>News</title>        <link>http://tvwillmatshofen.de/aktuelles/news</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-11-21T16:17:56Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/sport/trampolin">        <title>Trampolin</title>        <link>http://tvwillmatshofen.de/sport/trampolin</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-11-20T10:48:41Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tvwillmatshofen.de/aktuelles/news/geburtstagsfeier.jpg">        <title>Geburtstagsfeier.jpg</title>        <link>http://tvwillmatshofen.de/aktuelles/news/geburtstagsfeier.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>ed_kk</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-11-19T21:02:23Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

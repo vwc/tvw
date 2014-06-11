@@ -1,0 +1,481 @@
+
+/* - slimbox.css - */
+@media screen {
+/* http://tvwillmatshofen.de/portal_css/slimbox.css?original=1 */
+#lbOverlay {
+position: absolute;
+z-index: 9999;
+left: 0;
+width: 100%;
+background-color: #000;
+cursor: pointer;
+}
+#lbCenter, #lbBottomContainer {
+position: absolute;
+z-index: 9999;
+left: 50%;
+overflow: hidden;
+background-color: #fff;
+}
+.lbLoading {
+background: #fff url("../../loading.gif") no-repeat center;
+}
+#lbImage {
+position: absolute;
+left: 0;
+top: 0;
+border: 10px solid #fff;
+background-repeat: no-repeat;
+}
+#lbPrevLink, #lbNextLink {
+display: block;
+position: absolute;
+top: 0;
+width: 50%;
+outline: none;
+}
+#lbPrevLink {
+left: 0;
+}
+#lbPrevLink:hover {
+background: transparent url("../../prevlabel.gif") no-repeat 0% 15%;
+}
+#lbNextLink {
+right: 0;
+}
+#lbNextLink:hover {
+background: transparent url("../../nextlabel.gif") no-repeat 100% 15%;
+}
+#lbBottom {
+font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+font-size: 10px;
+color: #666;
+line-height: 1.4em;
+text-align: left;
+border: 10px solid #fff;
+border-top-style: none;
+}
+#lbCloseLink {
+display: block;
+float: right;
+width: 66px;
+height: 22px;
+background: transparent url("../../closelabel.gif") no-repeat center;
+margin: 5px 0;
+outline: none;
+}
+#lbCaption, #lbNumber {
+margin-right: 71px;
+}
+#lbCaption {
+font-weight: bold;
+}
+
+}
+
+
+/* - pgv_sg_jd.gallery.css - */
+@media all {
+/* http://tvwillmatshofen.de/portal_css/pgv_sg_jd.gallery.css?original=1 */
+#myGallery
+{
+width: 460px;
+height: 345px;
+z-index:5;
+display: none;
+border: 1px solid white;
+background: #AB0E0F;
+}
+a.GSizeLink {
+display: none;
+}
+.jdGallery
+{
+overflow: hidden;
+position: relative;
+}
+.jdGallery img
+{
+border: 0;
+margin: 0;
+}
+.jdGallery .slideElement
+{
+width: 100%;
+height: 100%;
+background-color: white;
+background-repeat: no-repeat;
+}
+.jdGallery .loadingElement
+{
+width: 100%;
+height: 100%;
+position: absolute;
+left: 0;
+top: 0;
+background-color: white;
+background-repeat: no-repeat;
+background-position: center center;
+background-image: url('http://tvwillmatshofen.de/portal_css/tvw/img/loading-bar-black.gif');
+}
+.jdGallery .slideInfoZone
+{
+position: absolute;
+z-index: 10;
+width: 100%;
+margin: 0px;
+left: 0;
+bottom: 0;
+height: 40px;
+background: #333;
+color: #fff;
+text-indent: 0;
+overflow: hidden;
+}
+* html .jdGallery .slideInfoZone
+{
+bottom: -1px;
+}
+.jdGallery .slideInfoZone h2
+{
+padding: 0;
+font-size: 80%;
+margin: 0;
+margin: 2px 5px;
+font-weight: bold;
+color: inherit;
+}
+.jdGallery .slideInfoZone p
+{
+padding: 0;
+font-size: 60%;
+margin: 2px 5px;
+color: #eee;
+}
+.jdGallery div.carouselContainer
+{
+position: absolute;
+height: 135px;
+width: 100%;
+z-index: 10;
+margin: 0px;
+left: 0;
+top: 0;
+}
+.jdGallery a.carouselBtn
+{
+position: absolute;
+bottom: 0;
+right: 30px;
+height: 20px;
+text-align: center;
+padding: 0 10px;
+font-size: 13px;
+background: #333;
+color: #fff;
+cursor: pointer;
+}
+.jdGallery .carousel
+{
+position: absolute;
+width: 100%;
+margin: 0px;
+left: 0;
+top: 0;
+height: 115px;
+background: #333;
+color: #fff;
+text-indent: 0;
+overflow: hidden;
+}
+.jdGallery .carousel .carouselWrapper
+{
+position: absolute;
+width: 100%;
+height: 78px;
+top: 10px;
+left: 0;
+overflow: hidden;
+}
+.jdGallery .carousel .carouselInner
+{
+position: relative;
+}
+.jdGallery .carousel .carouselInner .thumbnail
+{
+cursor: pointer;
+background: #000;
+background-position: center center;
+float: left;
+border: solid 1px #fff;
+}
+.jdGallery .carousel .label
+{
+font-size: 13px;
+position: absolute;
+bottom: 5px;
+left: 10px;
+padding: 0;
+margin: 0;
+}
+.jdGallery .carousel .label .number
+{
+color: #b5b5b5;
+}
+.jdGallery a
+{
+font-size: 100%;
+text-decoration: none;
+color: inherit;
+}
+.jdGallery a.right, .jdGallery a.left
+{
+position: absolute;
+height: 99%;
+width: 25%;
+cursor: pointer;
+z-index:10;
+filter:alpha(opacity=20);
+-moz-opacity:0.2;
+-khtml-opacity: 0.2;
+opacity: 0.2;
+}
+* html .jdGallery a.right, * html .jdGallery a.left
+{
+filter:alpha(opacity=50);
+}
+.jdGallery a.right:hover, .jdGallery a.left:hover
+{
+filter:alpha(opacity=80);
+-moz-opacity:0.8;
+-khtml-opacity: 0.8;
+opacity: 0.8;
+}
+.jdGallery a.left
+{
+left: 0;
+top: 0;
+background: url('http://tvwillmatshofen.de/portal_css/tvw/img/fleche1.png') no-repeat center left;
+}
+* html .jdGallery a.left { background: url('http://tvwillmatshofen.de/portal_css/tvw/img/fleche1.gif') no-repeat center left; }
+.jdGallery a.right
+{
+right: 0;
+top: 0;
+background: url('http://tvwillmatshofen.de/portal_css/tvw/img/fleche2.png') no-repeat center right;
+}
+* html .jdGallery a.right { background: url('http://tvwillmatshofen.de/portal_css/tvw/img/fleche2.gif') no-repeat center right; }
+.jdGallery a.open
+{
+left: 0;
+top: 0;
+width: 100%;
+height: 100%;
+}
+.withArrows a.open
+{
+position: absolute;
+top: 0;
+left: 25%;
+height: 99%;
+width: 50%;
+cursor: pointer;
+z-index: 10;
+background: none;
+-moz-opacity:0.8;
+-khtml-opacity: 0.8;
+opacity: 0.8;
+}
+.withArrows a.open:hover { background: url('http://tvwillmatshofen.de/portal_css/tvw/img/open.png') no-repeat center center; }
+* html .withArrows a.open:hover { background: url('http://tvwillmatshofen.de/portal_css/tvw/img/open.gif') no-repeat center center;
+filter:alpha(opacity=80); }
+
+}
+
+
+/* - pgv_sg_styles.css - */
+@media all {
+/* http://tvwillmatshofen.de/portal_css/pgv_sg_styles.css?original=1 */
+/* */
+/* */
+/* */
+# fix the flicker in IE6 when the images change in the main slideshow window, thx to Mike Pearce ;-)
+html{
+filter: expression(document.execCommand("BackgroundImageCache", false, true));
+}
+#myCarousel
+{
+text-align: center;
+margin: 0px 0px 10px 0px;
+height:165px;
+overflow:hidden;
+background: white !important;
+}
+#myGallery
+{
+width: none !important;
+height: none !important;
+z-index:0 !important;
+}
+.jdGallery div.carouselContainer
+{
+position: absolute;
+height: 150px;
+width: 100%;
+z-index: 10;
+margin: 0px;
+left: 0;
+top: 0;
+}
+.jdGallery a.carouselBtn
+{
+position: absolute;
+bottom: 10;
+right: 30px;
+height: 20px;
+width: 100px; background: url('http://tvwillmatshofen.de/portal_css/tvw/pgv_sg_carousel_btn.gif') no-repeat;
+text-align: center;
+padding: 0 10px;
+font-size: 13px;
+background: white;
+color: black;
+cursor: pointer;
+}
+.jdGallery .carousel
+{
+position: absolute;
+width: 100%;
+margin: 0px;
+left: 0;
+top: 0;
+height: 150px;
+background: white;
+color: black;
+text-indent: 0;
+overflow: hidden;
+}
+.jdGallery .carousel .carouselWrapper
+{
+position: absolute;
+width: 100%;
+height: 144px;
+top: 0px;
+left: 0;
+overflow: hidden;
+}
+.jdGallery .carousel .carouselInner
+{
+position: relative;
+}
+.jdGallery .carousel .carouselInner .thumbnail
+{
+cursor: pointer;
+background: white;
+background-position: center center;
+float: left;
+border: solid 1px #fff;
+}
+.jdGallery .carousel .label
+{
+font-size: 13px;
+position: absolute;
+bottom: 5px;
+left: 10px;
+padding: 0;
+margin: 0;
+}
+.jdGallery .carousel .label .number
+{
+color: #b5b5b5;
+}
+.jdGallery .carousel
+{
+position: absolute;
+width: 100%;
+margin: 0px;
+left: 0;
+top: 0;
+height: 115px;
+background: white;
+color: #fff;
+text-indent: 0;
+overflow: hidden;
+}
+.jdGallery .loadingElement
+{
+background-image: url('pgv_sg_loading-bar-black.gif');
+}
+.jdGallery a.left
+{
+background: url('pgv_sg_fleche1.png') no-repeat center left;
+}
+* html .jdGallery a.left { background: url('pgv_sg_fleche1.gif') no-repeat center left; }
+.jdGallery a.right
+{
+background: url('pgv_sg_fleche2.png') no-repeat center right;
+}
+* html .jdGallery a.right { background: url('pgv_sg_fleche2.gif') no-repeat center right; }
+.jdGallery .slideInfoZone h2{
+font-size:100%;
+}
+.jdGallery .slideInfoZone p{
+font-size:90%;
+margin: 0px;
+padding: 3px;
+line-height:1em;
+text-align: justify;
+}
+.jdGallery .slideInfoZone
+{
+position: absolute;
+z-index: 10;
+width: 100%;
+margin: 0px;
+left: 0;
+bottom: 0;
+height: 2em;
+background: white;
+color: black;
+text-indent: 0;
+overflow: hidden;
+display: none;
+}
+.pgv_sg_simpletimed_view #myGallery{
+width: 510px;
+height: 426px;
+}
+.pgv_sg_simpletimed_big_view #myGallery{
+width: 830px;
+height: 700px;
+}
+.pgv_sg_carouseltimed_view #myGallery,
+.pgv_sg_carousel_view #myGallery{
+width: 510px;
+height: 380px;
+}
+.pgv_sg_carouseltimed_view #myCarousel,
+.pgv_sg_carousel_view #myCarousel{
+width: 512px;
+height: 120px;
+}
+.pgv_sg_carouseltimed_view .jdGallery a.carouselBtn,
+.pgv_sg_carousel_view .jdGallery a.carouselBtn{
+display: none;
+}
+.pgv_sg_carouseltimed_big_view #myGallery,
+.pgv_sg_carousel_big_view #myGallery{
+width: 830px;
+height: 700px;
+}
+.pgv_sg_carouseltimed_big_view #myCarousel,
+.pgv_sg_carousel_big_view #myCarousel{
+width: 832px;
+}
+.pgv_sg_carouseltimed_big_view .jdGallery a.carouselBtn,
+.pgv_sg_carousel_big_view .jdGallery a.carouselBtn{
+display: none;
+}
+/* */
+
+}
+
